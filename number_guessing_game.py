@@ -1,6 +1,6 @@
 import random
 
-print("🎯 Welcome to the Number Guessing Game!") 
+print(" Welcome to the Number Guessing Game!") 
 
 while True:
     secret_number = random.randint(1,100)
@@ -23,7 +23,7 @@ while True:
         elif guess > secret_number:
             print("Too high! Try again.")
         else:
-            print(f"🎉 You got it in {attempts} tries! The number was {secret_number}.")
+            print(f" You got it in {attempts} tries! The number was {secret_number}.")
             break
        
     play_again = input("Do you want to play again? (yes/no): ").strip().lower()          
