@@ -3,8 +3,7 @@
 A simple Python terminal game where the player tries to guess a randomly generated number between 1 and 100.
 
 
-
-##  How to Play
+How to Play:
 
 1. The game picks a random number between 1 and 100.
 2. You try to guess it!
@@ -14,7 +13,7 @@ A simple Python terminal game where the player tries to guess a randomly generat
 
 
 
-## How to Run the Game
+How to run the game:
 
 Make sure you have **Python** installed. Then open a terminal and run:
 
